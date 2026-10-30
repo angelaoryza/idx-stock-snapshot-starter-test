@@ -1,0 +1,11 @@
+[theme]
+base = "dark"
+primaryColor = "#E5337E"
+backgroundColor = "#0C0A09"
+secondaryBackgroundColor = "#1E1916"
+textColor = "#F6F1EE"
+font = "Plus Jakarta Sans"
+codeFont = "JetBrains Mono"
+borderColor = "#3A302B"
+showWidgetBorder = true
+chartCategoricalColors = ["#E5337E", "#DF9439", "#1FB36A", "#E0003B"]
